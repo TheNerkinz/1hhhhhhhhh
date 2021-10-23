@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/\u0443\u0447\u0437\u0448\u043A\u0448\u0443\u0442\u0441\u0443.unity"
+- path: Assets/farm.unity
   isLoaded: 1
   isActive: 1
