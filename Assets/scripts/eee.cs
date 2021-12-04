@@ -5,6 +5,8 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody))]
 public class eee : MonoBehaviour
 {
- 
+ if (Input.GetMouseButtonDown(0)
+
+       
 }
 	
