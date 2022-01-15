@@ -136,6 +136,7 @@
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
     <Compile Include="Assets\scripts\ColliderSceneLoader.cs" />
+    <Compile Include="Assets\scripts\dengi.cs" />
     <Compile Include="Assets\scripts\eee.cs" />
     <Compile Include="Assets\scripts\GrabSystem.cs" />
     <Compile Include="Assets\scripts\Interactable.cs" />
